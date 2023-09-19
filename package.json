@@ -1,0 +1,20 @@
+{
+  "name": "element-plus-table-column-slot-bug",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.14",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0"
+  },
+  "volta": {
+    "node": "19.4.0",
+    "pnpm": "8.7.6"
+  }
+}
